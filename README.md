@@ -7,6 +7,7 @@ This portfolio website serves as a platform to present my skills, projects, and 
 
 ## Screenshots
 Here are some screenshots of the portfolio website:
+![portfolio](https://github.com/sharmilidas33/Sharmili-s_Portfolio/assets/128738858/9e521503-f30b-4ac3-bf12-0d74b5436013)
 
 ## Deployment
 I have hosted this website on Netlify. You can visit it here- [https://sharmiliportfolio.netlify.app/]
