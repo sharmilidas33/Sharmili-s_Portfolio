@@ -5,8 +5,8 @@ My portfolio website with modern UI, developed using React. It showcases my work
 
 This portfolio website serves as a platform to present my skills, projects, and experiences to potential employers or collaborators. It provides an interactive and user-friendly interface for visitors to learn more about my work and contact me.
 
-## Screenshots
-Here are some screenshots of the portfolio website:
+## Interface Demo
+Here is the screenshot of my portfolio website:
 ![portfolio](https://github.com/sharmilidas33/Sharmili-s_Portfolio/assets/128738858/9e521503-f30b-4ac3-bf12-0d74b5436013)
 
 ## Deployment
