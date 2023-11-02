@@ -19,9 +19,6 @@ const Intro = () => {
             <a href="https://github.com/sharmilidas33" target="_blank" rel="noopener noreferrer">
               <img src={github} alt="github" className="link1" />
             </a>
-            <a href="https://www.facebook.com/sharmili.das.399" target="_blank" rel="noopener noreferrer">
-              <img src={facebook} alt="fb" className="link1" />
-            </a>
             <a href="https://www.linkedin.com/in/sharmili-das-980984220/" target="_blank" rel="noopener noreferrer">
               <img src={linkedin} alt="linkedin" className="link1" />
             </a>
