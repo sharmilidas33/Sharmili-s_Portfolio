@@ -58,7 +58,7 @@
     object-fit: cover;
     height: 3rem;
     width: 3rem;
-    margin: 0 0.20rem;
+    margin: 0 0.30rem;
     transition: transform 0.2s;
     display: flex;
     justify-content: center;
