@@ -69,6 +69,12 @@ const Skills = () => {
             <h2>Mongo DB</h2>
              
           </div>
+        <div className="skillBar">
+          <img src={php} alt="php" className="skillBarImg" />
+          <div className="skillBarText">
+            <h2>PHP</h2>
+             
+          </div>
         </div>
         <div className="skillBar">
           <img src={C} alt="c" className="skillBarImg" />
